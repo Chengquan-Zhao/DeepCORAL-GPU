@@ -1,0 +1,8 @@
+# 首次运行自动生成的图片缓存（单个文件 >100MB，不上传）
+data/cache/
+data/*.tar.gz
+# 训练输出
+results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

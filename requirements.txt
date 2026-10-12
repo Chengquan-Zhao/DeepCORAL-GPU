@@ -1,0 +1,6 @@
+# torch / torchvision 请按 README 第 3 步安装 CUDA 版，不要直接 pip install torch（可能装成 CPU 版）
+numpy
+pandas
+matplotlib
+pillow
+gdown
